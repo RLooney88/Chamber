@@ -1,0 +1,9 @@
+BEGIN:VEVENT
+UID:20250202T042128Z-event@greaterbaltimorechamber.org
+DTSTAMP:20250202T042128Z
+DTSTART;TZID=America/New_York:20250212T120000
+DTEND;TZID=America/New_York:20250212T130000
+SUMMARY:February Power Hour Lunch
+LOCATION:Meyer & Steinberg 25 Hooks Lane Suite 304 Pikesville MD 21208
+DESCRIPTION:Welcome to the Greater Baltimore Chamber's Power Hour Luncheons!  Experience networking excellence at our Power Hour Luncheons—a dynamic blend of professional development, camaraderie, and business brilliance!  Hosted by industry leaders, our Power Hour Luncheons are not just events; they are opportunities to showcase your expertise and offer an insider's perspective with an exclusive tour. Share your insights in a room buzzing with energy, all while enjoying a delectable lunch sponsored by the host or a member business!  But that's not all—our Power Hour Luncheons go beyond the ordinary. Attendees have the chance to perfect their elevator pitch with a 60-second spotlight. It's your time to shine, connect, and leave a lasting impression!  We believe in the power of connections, and that's why we encourage our members to bring a guest.  Power Hour Luncheons are an investment in your network, your growth, and your journey toward success. And here's the bonus: all attendees receive a curated list of contacts, ensuring that the connections made during the Power Hour Luncheons extend far beyond the event itself.  Join us for an extraordinary blend of professionalism and fun, where handshakes turn into partnerships, and connections evolve into lasting relationships.  Members: Free  If you're contemplating joining the Greater Baltimore Chamber, reach out to us for a complimentary ticket—it's our way of saying, "Welcome to the family!" Members can register a guest for free.  Guests: $15  Members can register one non-member guest for a complimentary ticket.
+END:VEVENT
